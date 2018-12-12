@@ -25,9 +25,8 @@ cd bruteforce
 ```
 
 
-### Break down into end to end tests
+### Run the script
 
-Explain what these tests test and why
 
 ```
 python3.6 yahoo.py
